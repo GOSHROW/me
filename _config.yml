@@ -1,12 +1,12 @@
 ---
 
-port: 4000
+port: 5000
 host: 0.0.0.0
 safe: false
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [CNAME, README.md, .gitignore, LICENSE]
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
@@ -14,13 +14,13 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "GOSHROW - Portfolio"
+keywords:    "SinglePaged, GOSHROW, github, goshrow, portfolio"
+description: "A basic Tech Portfolio for GOSHROW - Swapnil Ghosh to help identify his experience and degree of expertise in all things tech"
+source_link: "https://github.com/GOSHROW/portfolio"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###

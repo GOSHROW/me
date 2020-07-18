@@ -1,2 +1,6 @@
 _site/
 .DS_Store
+.cache/
+.profile
+.bashrc
+.bash_logout
