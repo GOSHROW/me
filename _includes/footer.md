@@ -1,8 +1,6 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
+Jekyll template of 
 [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
-this site is [open source]({{ site.source_link }})
-
+by [GOSHROW](https://goshrow.github.io)
