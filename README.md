@@ -21,5 +21,5 @@ On your text editor / IDE *cd* into the clone and modify *_config.yml* and *_pos
 Either add, commit push the updates or run it locally by 
 
 ```
-jekyll serve -w
+jekyll serve -w 
 ```
