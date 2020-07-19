@@ -3,3 +3,50 @@
 {% include css/base.css %}
 {% include css/skeleton.css %}
 {% include css/main.css %}
+
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+	bottom: 0;
+	background-color: black;
+	/* background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); */
+    z-index: 1000;
+    background-size: 100vw 100vh;
+    background-image:  url("https://images.unsplash.com/photo-1541409946292-d4723fcf3ff8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=968&q=80") ;
+} 
+
+.gif {
+	position: fixed;
+	-webkit-transition: 1.5s ease-in-out;
+	transition: 1.5s ease-in-out;
+	transform-style: preserve-3d;
+	z-index: 2000;
+    display: block;
+    top: calc(50% - 100px);
+	left: calc(50% - 150px);
+	opacity: 1;
+}
+
+.blink-bg{
+	color: #fff;
+	display: inline-block;
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+	animation: blinkingBackground 4s infinite;
+}
+@keyframes blinkingBackground{
+	0%		{ background-image: linear-gradient(to right, red, orange, yellow); opacity: 0.0;}
+	10%		{ background-image: linear-gradient(to right, red, orange, yellow);opacity: 0.0;}
+	20%		{ background-image: linear-gradient(to right, red, orange, yellow);opacity: 0.2;}
+	30%		{ background-image: linear-gradient(to right, red, orange, yellow);opacity: 0.1;}
+	40%		{ background-image: linear-gradient(to right, red, orange, yellow);opacity: 0.1;}
+	50%		{ background-image: linear-gradient(to right, red, orange, yellow);opacity: 0.1;}
+	60%		{ background-image: linear-gradient(to right, red, orange, yellow);opacity: 0.5;}
+	70%		{ background-image: linear-gradient(to right, red, orange, yellow); opacity: 0.5;}
+	80%		{ background-image: linear-gradient(to right, red, orange, yellow); opacity: 0.8;}
+	80%		{ background-image: linear-gradient(to right, red, orange, yellow); opacity: 0.3;}
+	100%	{ background-image: linear-gradient(to right, red, orange, yellow); opacity: 0.1;}
+}

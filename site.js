@@ -1,4 +1,9 @@
 
+    $(window).on('load', function() { 
+        $('#preloader').delay(3000).fadeOut('slow'); 
+        $('body').delay(3000).css({'overflow':'visible'});
+    });
+    
 $.extend($.easing,
 {
     def: 'easeOutQuad',
