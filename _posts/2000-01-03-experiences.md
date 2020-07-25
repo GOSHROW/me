@@ -65,5 +65,5 @@ This was a hand-on experiential learning platform provided to a bunch of cherry-
 </div>
 
 <script>
-    ScrollReveal().reveal('.expHead', { delay: 1500 });
+    ScrollReveal().reveal('.expHead', { delay: 500 });
 </script>
