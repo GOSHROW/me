@@ -5,6 +5,8 @@ color: white
 fa-icon: flag
 ---
 
+<div class="expHead" markdown="1">
+
 ## **Hack36 2020** *Feb 2020*
 
 ### We Won It. 
@@ -17,7 +19,9 @@ The implemented and fully functioning code we created from scratch in 36 hours w
 * This graph was processed in the background and immediately served up to be further accessible from the Public Cloud Service we used, while avoiding any PII of the patient.
 * Thereby, I streamlined it into the major flow of deployment and put it up as a route while making sure that we got no Cross-Origiin errors and it worked cross-platform.
 
-<hr/>
+<hr/> <br/>
+</div>
+<div class="expHead" markdown="1">
 
 ## **Crio Launch** *Feb 2020 - Mar 2020*
 
@@ -31,7 +35,10 @@ This was a hand-on experiential learning platform provided to a bunch of cherry-
 * Refactored Java Spring Code for a Microservice that looked out for API Calls pertaining to a Stock Trading Portfolio and delivered the interfaces for it.
 * Implemented Fundamental Logic for reporting the shifts in market economy, and published it all to a Central Maven Repository.
 
-<hr/>
+<hr/> <br/>
+</div>
+<div class="expHead" markdown="1">
+
 
 ## **Crio.Do Lead TA** *Dec 2019 - Jan 2020*
 
@@ -40,7 +47,10 @@ This was a hand-on experiential learning platform provided to a bunch of cherry-
 * As a Lead TA, I scheduled the availability and the schedule for other TAs, handled meta-issues and onboarded TAs effeciently on from their performance in the weekend Cohorts.
 * Insured that all tickets are resolved adequately, and solutions to the issues effectively come up as Discussions on the Forums on Discourse.
 
-<hr/>
+<hr/> <br/>
+</div>
+<div class="expHead" markdown="1">
+
 
 ## **IET, BIT Mesra** *Aug 2018 - Present*
 
@@ -50,5 +60,10 @@ This was a hand-on experiential learning platform provided to a bunch of cherry-
 * Expanded the audience of the club events to include remote and inter-college participants amidst the pandemic.
 * Formulated and Organized **BITSoC**, an Open Source Event promoting a Community and Mentor-Mentee Relations to work on FOSS projects.
 
-<hr/>
+<hr/> <br/>
 
+</div>
+
+<script>
+    ScrollReveal().reveal('.expHead', { delay: 1500 });
+</script>
