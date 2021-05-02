@@ -1,4 +1,4 @@
-## GOSHROW Portfolio
+## GOSHROW ME
 
 Lists out the experiences, introduction and projects for Swapnil Ghosh / [GOSHROW](https://goshrow.github.io)
 
@@ -9,7 +9,7 @@ An implementation over the Jekyll theme [Single Paged](http://t413.com/SinglePag
 Fork and clone accordingly
 
 ```
-git clone git@github.com:<fork-owner-name>/portfolio.git
+git clone git@github.com:<fork-owner-name>/me.git
 ```
 ```
 git checkout gh-pages

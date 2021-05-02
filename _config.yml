@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "GOSHROW - Portfolio"
+title:       "GOSHROW - Me"
 keywords:    "SinglePaged, GOSHROW, github, goshrow, portfolio"
 description: "A basic Tech Portfolio for GOSHROW - Swapnil Ghosh to help identify his experience and degree of expertise in all things tech"
-source_link: "https://github.com/GOSHROW/portfolio"
+source_link: "https://github.com/GOSHROW/me"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
