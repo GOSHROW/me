@@ -4,7 +4,24 @@ bg: "#2F3F3F"
 color: white
 fa-icon: flag
 ---
+<div class="expHead" markdown="1">
 
+## **AWS-Crio Externship** *Mar 2021 - Apr 2021*
+
+### An actual impactful externship 
+
+This was the final stage of the multi-stage Crio Winter of Doing. The project was procured from AWS and mentored accordingly.
+
+* Created an AWS Lambda Scheduler and Orchestrator Library from Scratch in a team of 2.
+* I handled the effective working of the Library and the REST APIs it laid out while my partner designed the demo for it by using the Library in a Full Stack Web App.
+* Used PostgreSQL for Database of the Scheduler and Orchestrator Events.
+* Used these Events in an Event Driven Scheduler Script created using ShellScript and TypeScript.
+* The APIs were vended as TypeScript methods within an instance of the Library Class.
+* Orchestrator helped sequence out complicated schedules for AWS Lambda Triggering with multiple AWS Lambdas in place with their own meta if-else cases.
+* Provided precision of less than a second in the from-scratch-scheduler.
+
+<hr/> <br/>
+</div>
 <div class="expHead" markdown="1">
 
 ## **Hack36 2020** *Feb 2020*
@@ -17,7 +34,7 @@ The implemented and fully functioning code we created from scratch in 36 hours w
 
 * I handled a major aspect of the app which was to poplulate a blinking-pattern graph for the end-user while serving an aesthetic Zen mode to cool down the supposed ADHD Patient. 
 * This graph was processed in the background and immediately served up to be further accessible from the Public Cloud Service we used, while avoiding any PII of the patient.
-* Thereby, I streamlined it into the major flow of deployment and put it up as a route while making sure that we got no Cross-Origiin errors and it worked cross-platform.
+* Thereby, I streamlined it into the major flow of deployment and put it up as a route while making sure that we got no CORS errors and it worked cross-platform.
 
 <hr/> <br/>
 </div>
