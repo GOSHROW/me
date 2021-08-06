@@ -6,6 +6,20 @@ fa-icon: flag
 ---
 <div class="expHead" markdown="1">
 
+## **Samsung Bangalore - Summer Intern** *May 2021 - Jul 2021*
+
+### One of the Best Summers Ever
+
+Got to build an HDR image enhancement system optimized for Videos.
+
+* Most of the stuff goes under NDA but will be glad to chat upon this problem and my generalized solution in person.
+* Got to fiddle with great resources for computation and code handling and a whole lot more.
+* Met awesome folks.
+
+<hr/> <br/>
+</div>
+<div class="expHead" markdown="1">
+
 ## **AWS-Crio Externship** *Mar 2021 - Apr 2021*
 
 ### An actual impactful externship 
@@ -71,7 +85,7 @@ This was a hand-on experiential learning platform provided to a bunch of cherry-
 
 ## **IET, BIT Mesra** *Aug 2018 - Present*
 
-### Joint Secretary
+### Vice Predident
 
 * Organized tech-related events and workshops for Python3, C/C++, Web Developement and Linux / Networking for the College Club.
 * Expanded the audience of the club events to include remote and inter-college participants amidst the pandemic.
